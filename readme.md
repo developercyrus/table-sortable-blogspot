@@ -14,7 +14,6 @@ Some important notes:
         }
     </style>
     <script src="http://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
-
 </pre>
 
  
