@@ -17,6 +17,4 @@ Some important notes:
 3. Mark the table as a sortable one by giving it a class of "sortable":
 ```html
     <table class="sortable">
-```    
-
- 
+```
