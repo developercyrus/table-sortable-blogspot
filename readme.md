@@ -2,8 +2,7 @@ Some important notes:
 
 1. This is forked from https://kryogenix.org/code/browser/sorttable/sorttable.js
 2. Use it with the snippet
-<pre >
-
+```js
     <style type="text/css">
         /* Sortable tables */
         table.sortable thead {
@@ -13,10 +12,8 @@ Some important notes:
             cursor: default;
         }
     </style>
-  
     <script src="https://cdn.rawgit.com/developercyrus/table-sortable-blogspot/master/sortable.js"></script>
-    
-</pre>
+```
 
 
  
