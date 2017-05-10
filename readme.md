@@ -13,7 +13,10 @@ Some important notes:
             cursor: default;
         }
     </style>
-    <script src="http://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+  
+    <script src="https://cdn.rawgit.com/developercyrus/table-sortable-blogspot/master/sortable.js"></script>
+    
 </pre>
+
 
  
